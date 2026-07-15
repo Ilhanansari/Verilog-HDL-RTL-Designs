@@ -1,2 +1,28 @@
 # Verilog-HDL-RTL-Designs
-A collection of Verilog HDL RTL design projects including combinational and sequential circuits, ALU, multipliers, counters, shift registers, and FSMs with testbenches and simulation waveforms.
+This repository contains RTL designs implemented using Verilog HDL.
+
+## Topics
+
+✔ Combinational Circuits
+
+✔ Sequential Circuits
+
+✔ Multipliers
+
+✔ Counters
+
+✔ Shift Registers
+
+✔ ALU
+
+✔ FSM
+
+## Tools
+
+- Verilog HDL
+- Xilinx Vivado
+- RTL Simulation
+
+## Author
+
+Ilhan Ansari
